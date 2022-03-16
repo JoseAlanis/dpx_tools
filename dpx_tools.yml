@@ -1,4 +1,4 @@
-name: mne_stable
+name: mne_py39
 channels:
   - conda-forge
   - defaults
